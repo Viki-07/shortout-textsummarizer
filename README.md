@@ -1,16 +1,7 @@
-# textsummarizer
+# ShortOut - Text Summarizer
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+◦ Overview: Efficient text summarization with advanced features and a user-friendly design using Groq API and Llama 2 LLM.
+◦ Features: It includes text input with PDF extraction, clipboard text pasting, and customizable summarization options.
+asynchronous operations handle data fetching, error handling, and loading states, ensuring a responsive user experience.
+◦ Skills Needed: Flutter development, API Handling, Networking, State Management, File handling, Asynchronous
+programming, UI design, and error handling.
